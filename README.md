@@ -180,8 +180,6 @@ Certainly, here are more ambitious milestones and features for your DataGenius-S
 
 - **Quantum-safe Encryption**: Enhance data security with quantum-safe encryption algorithms to protect against emerging quantum computing threats.
 
-Certainly, here are additional long-term milestones and features for your DataGenius-Solutions roadmap:
-
 ### Q2 2027 - Q3 2027
 
 - **Data Synthesis and Generation**: Introduce AI-powered data synthesis and generation tools, allowing users to create synthetic data for testing and modeling.
