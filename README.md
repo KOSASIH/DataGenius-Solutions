@@ -150,8 +150,6 @@ Our roadmap outlines the upcoming features and improvements we have planned for 
 
 - **Quantum Computing Integration**: Explore integration with emerging quantum computing technologies for advanced data analysis and encryption.
 
-Certainly, here are more ambitious milestones and features for your DataGenius-Solutions roadmap:
-
 ### Q2 2026 - Q3 2026
 
 - **Decentralized Data Marketplace**: Create a decentralized data marketplace powered by blockchain, allowing users to securely buy and sell datasets.
