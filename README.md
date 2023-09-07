@@ -5,7 +5,7 @@ Unleash the Power of Your Data.
 
 1. [Description](#description)
 2. [Vision And Mission](#vision-and-mission)
-3. [Problema We Hope to Solve](#problems-we-hope-to-solve)
+3. [Problems We Hope to Solve](#problems-we-hope-to-solve)
 4. 
 # Description
 
