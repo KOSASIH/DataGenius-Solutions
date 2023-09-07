@@ -124,8 +124,6 @@ Our roadmap outlines the upcoming features and improvements we have planned for 
 
 - **Scalability and Performance**: Ensure the platform remains scalable and performs efficiently as user adoption grows.
 
-Certainly, here are some additional milestones and features you can consider adding to your DataGenius-Solutions roadmap:
-
 ### Q2 2025 - Q3 2025
 
 - **Data Governance and Compliance Suite**: Develop a comprehensive suite of tools to assist organizations in managing data governance, compliance, and privacy regulations effectively.
